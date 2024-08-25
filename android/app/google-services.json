@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47234836438",
+    "firebase_url": "https://taskmanager2-9e0a9-default-rtdb.firebaseio.com",
+    "project_id": "taskmanager2-9e0a9",
+    "storage_bucket": "taskmanager2-9e0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47234836438:android:a2592eefdb773fbe80e677",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEbtspzocF5lR7Yng9QoDpJJrdRqAy1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
